@@ -1,0 +1,8 @@
+{
+  "name": "Remix 프레이밍 X-레이 \u0026 팩트 탈수기 (Framing X-Ray)1",
+  "description": "매체 언어의 감정 선동, 모호한 출처, 순수 팩트를 해부하고 동일 팩트의 프레이밍 전환과 생략된 사각지대를 분석하는 데이터 저널리즘 워크벤치",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
